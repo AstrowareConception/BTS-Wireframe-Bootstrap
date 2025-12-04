@@ -175,12 +175,17 @@ C’est votre **unique base** pour concevoir le site.
 # 📌 **Contraintes strictes**
 
 ✔ Vous utilisez **uniquement des composants Bootstrap 5**
+
 ✔ Votre maquette doit refléter fidèlement les demandes du client
+
 ✔ Vous décidez vous-même du traitement de la **responsivité**
+
 ✔ Le wireframe doit être simple, lisible et cohérent
 
 ❌ Pas de design fantaisie non prévu par Bootstrap
+
 ❌ Pas d’inventions qui n’existent pas dans le brief
+
 ❌ Pas d'animations non prévues par Bootstrap
 
 ---
@@ -218,7 +223,9 @@ Attendus :
 # 📤 **Livrables à remettre**
 
 1️⃣ Analyse préliminaire (1 page)
+
 2️⃣ Wireframes des 5 pages (images ou export PDF)
+
 3️⃣ Notes éventuelles sur la responsivité
 
 Un seul rendu par binôme si travail à deux.
