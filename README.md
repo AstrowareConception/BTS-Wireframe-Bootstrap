@@ -1,7 +1,3 @@
-Voici **l’énoncé mis à jour**, incluant une section claire sur la **responsivité**, parfaitement intégrée dans le contexte client et laissant aux étudiants une **liberté encadrée** fondée sur ce qu’ils ont appris de Bootstrap.
-
----
-
 # 🎓 **TP – Analyse des besoins d’un client et création d’une maquette 100 % Bootstrap**
 
 ### **Durée : 2 heures**
