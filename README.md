@@ -2,7 +2,7 @@
 
 ### **Durée : 2 heures**
 
-### **Travail individuel ou en binôme**
+### **Travail en binôme obligatoire**
 
 ### **Outil conseillé : [https://wireframe.cc](https://wireframe.cc)** (mais tout autre outil de wireframe est accepté)
 
