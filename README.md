@@ -200,7 +200,7 @@ Document bref contenant :
 * Les sections présentes dans chaque page
 * Les composants Bootstrap choisis pour chaque section
 * Une justification claire
-* (NOUVEAU) **Votre décision concernant la responsivité :**
+* Votre décision concernant la responsivité :
 
   * soit un wireframe mobile en plus,
   * soit une description du comportement responsive,
